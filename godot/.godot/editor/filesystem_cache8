@@ -1,0 +1,55 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1742844798
+export_presets.cfg::TextFile::-1::1742838366::0::1::::<><>::
+fon5.jpg::CompressedTexture2D::3322077737783307413::1707981314::1707981331::1::::<><>::
+glob.gd::GDScript::-1::1742840405::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::3989642040572056887::1707560694::1707560698::1::::<><>::
+new_canvas_item_material.tres::CanvasItemMaterial::6923655551378956186::1707980537::0::1::::<><>::
+plug.gd::GDScript::-1::1707561389::0::1::::<>SceneTree<>::
+ui_data.json::JSON::-1::1742833049::0::1::::<><>::
+::res://addons/::1707561342
+::res://addons/gd-plug/::1707561332
+plug.gd::GDScript::-1::1707561332::0::1::::<>SceneTree<>::
+::res://addons/gd-plug-ui/::1707561342
+plugin.cfg::TextFile::-1::1707561342::0::1::::<><>::
+plugin.gd::GDScript::-1::1707561342::0::1::::<>EditorPlugin<>::
+Utils.gd::GDScript::-1::1707561342::0::1::::<>RefCounted<>::
+::res://addons/gd-plug-ui/assets/::1707561342
+::res://addons/gd-plug-ui/assets/icons/::1707561343
+add.png::CompressedTexture2D::7835114563785003500::1707561342::1707561343::1::::<><>::
+edit_internal.png::CompressedTexture2D::1518951561193868040::1707561342::1707561343::1::::<><>::
+import_check.png::CompressedTexture2D::2559893695893559664::1707561342::1707561343::1::::<><>::
+import_fail.png::CompressedTexture2D::782725709085380447::1707561342::1707561343::1::::<><>::
+refresh.png::CompressedTexture2D::5778481838745487622::1707561342::1707561343::1::::<><>::
+::res://addons/gd-plug-ui/assets/icons/progress/::1707561343
+progress1.png::CompressedTexture2D::5234336554548122265::1707561342::1707561343::1::::<><>::
+progress2.png::CompressedTexture2D::5471191740115605991::1707561342::1707561343::1::::<><>::
+progress3.png::CompressedTexture2D::8869967858836137048::1707561342::1707561343::1::::<><>::
+progress4.png::CompressedTexture2D::1574191532074952594::1707561342::1707561343::1::::<><>::
+progress5.png::CompressedTexture2D::735392338902873673::1707561342::1707561343::1::::<><>::
+progress6.png::CompressedTexture2D::5225766701045698380::1707561342::1707561343::1::::<><>::
+progress7.png::CompressedTexture2D::1298743453636574419::1707561342::1707561343::1::::<><>::
+progress8.png::CompressedTexture2D::8645841164206839983::1707561342::1707561343::1::::<><>::
+progress_animated_texture.tres::AnimatedTexture::-1::1707561342::0::1::::<><>::res://addons/gd-plug-ui/assets/icons/progress/progress1.png<>res://addons/gd-plug-ui/assets/icons/progress/progress6.png<>res://addons/gd-plug-ui/assets/icons/progress/progress7.png<>res://addons/gd-plug-ui/assets/icons/progress/progress5.png<>res://addons/gd-plug-ui/assets/icons/progress/progress2.png<>res://addons/gd-plug-ui/assets/icons/progress/progress4.png<>res://addons/gd-plug-ui/assets/icons/progress/progress3.png<>res://addons/gd-plug-ui/assets/icons/progress/progress8.png
+::res://addons/gd-plug-ui/scene/::1707561342
+::res://addons/gd-plug-ui/scene/plugin_settings/::1707561342
+PluginSettings.gd::GDScript::-1::1707561342::0::1::::<>Control<>::
+PluginSettings.tscn::PackedScene::528256688132022670::1707561342::0::1::::<><>::res://addons/gd-plug-ui/scene/plugin_settings/PluginSettings.gd<>res://addons/gd-plug-ui/assets/icons/progress/progress_animated_texture.tres
+::res://export/::1739277662
+::res://export/web/::1742838673
+Universal Unit Measure Converter.144x144.png::CompressedTexture2D::1506055658956987223::1742838365::1742838673::1::::<><>::
+Universal Unit Measure Converter.180x180.png::CompressedTexture2D::4163929508994055290::1742838365::1742838673::1::::<><>::
+Universal Unit Measure Converter.512x512.png::CompressedTexture2D::8764699881539474721::1742838365::1742838673::1::::<><>::
+Universal Unit Measure Converter.apple-touch-icon.png::CompressedTexture2D::3572928501253523576::1742838365::1742838673::1::::<><>::
+Universal Unit Measure Converter.icon.png::CompressedTexture2D::1372676619028972986::1742838365::1742838673::1::::<><>::
+Universal Unit Measure Converter.manifest.json::JSON::-1::1742838365::0::1::::<><>::
+Universal Unit Measure Converter.png::CompressedTexture2D::5968693614822402624::1742838365::1742838673::1::::<><>::
+::res://scenes/::1742838678
+InputUnit.gd::GDScript::-1::1742828701::0::1::::<>Control<>::
+InputUnit.tscn::PackedScene::8101006138136322338::1742833049::0::1::::<><>::res://scenes/InputUnit.gd
+main_form.gd::GDScript::-1::1742832188::0::1::::<>Control<>::
+main_form.tscn::PackedScene::1338216103332009691::1742838678::0::1::::<><>::res://scenes/main_form.gd<>uid://c8xlsy87f22om::::res://styles/main_theme.tres<>uid://dnognf8hlja5o::::res://scenes/InputUnit.tscn<>uid://bnlieubigbyw8::::res://fon5.jpg
+test.tscn::PackedScene::987355453169567301::1742833049::0::1::::<><>::
+::res://styles/::1707980537
+main_theme.tres::Theme::7137255239996022204::1707980005::0::1::::<><>::
+new_canvas_item_material.tres::CanvasItemMaterial::114855527545820720::1707980537::0::1::::<><>::
