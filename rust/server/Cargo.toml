@@ -7,7 +7,7 @@ edition = "2021"
 [dependencies]
 unit_conversion = { version = "0.1.0", path = "../unit_conversion" }
 http = "1.2.0"
-serde = { version = "1.0.219", features = ["derive"] }
+serde = { version = "1.0.218", features = ["derive"] }
 tokio = { version = "1.43.0", features = ["full"] }
 axum = {version = "0.6.20", features = ["headers"]}
 tower-http = { version = "0.4.0", features = ["cors"] }
